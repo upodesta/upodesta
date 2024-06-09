@@ -12,13 +12,17 @@ https://hassan.com.bd
 #### Blog Sites:-
 
 - https://blog.hassan.com.bd
-- https://notes.hassan.com.bd
 - https://diary.hassan.com.bd
 - https://page.hassan.com.bd
 - https://blogger.hassan.com.bd
 - https://hassanandassociates.wordpress.com
 
+#### Personal Blog:
+- https://notes.taxadvisor.com.bd
 
+#### Personal Site:
+- https://about.me/syed-hassan-ali/
+  
 #### Internal Site:-
 
 https://sites.google.com/site/taxadvisorbd
