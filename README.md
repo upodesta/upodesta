@@ -7,18 +7,18 @@ Here are some links where you can catch me:
 
 #### Official Site:-
 
-https://hassan.com.bd
+https://hassan.bd
 
 #### Blog Sites:-
 
-- https://blog.hassan.com.bd
-- https://diary.hassan.com.bd
-- https://page.hassan.com.bd
-- https://blogger.hassan.com.bd
+- https://blog.hassan.bd
+- https://diary.hassan.bd
+- https://page.hassan.bd
+- https://blogger.hassan.bd
 - https://hassanandassociates.wordpress.com
 
 #### Personal Blog:
-- https://notes.taxadvisor.com.bd
+- https://notes.taxadvisor.bd
 
 #### Personal Site:
 - https://about.me/syed-hassan-ali/
@@ -58,5 +58,5 @@ https://blog.hassan.com.bd/feed.xml
 
 #### Status Page:-
 
-https://status.hassan.com.bd
+https://status.hassan.bd
 
